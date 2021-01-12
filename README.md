@@ -1,4 +1,4 @@
-# Responsive-Website-Restaurant
+# Responsive-Restaurant-Website
 
 
 This is a mobile first approach fully responsive restaurant website, with home, about, services, menu and 
